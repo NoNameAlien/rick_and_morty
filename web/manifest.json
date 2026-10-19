@@ -1,0 +1,19 @@
+{
+    "name": "The Multiverse \u2022 Character Catalog",
+    "short_name": "Multiverse",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#081411",
+    "theme_color": "#081411",
+    "description": "Explore extraordinary lives across the Rick and Morty multiverse.",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ]
+}

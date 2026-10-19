@@ -1,0 +1,7 @@
+
+
+PRODUCT_NAME = rick_and_morty
+
+PRODUCT_BUNDLE_IDENTIFIER = com.example.rickAndMorty
+
+PRODUCT_COPYRIGHT = Copyright © 2026 com.example. All rights reserved.
